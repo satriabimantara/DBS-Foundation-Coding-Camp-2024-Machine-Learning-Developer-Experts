@@ -1,3 +1,10 @@
+# hide unecessary dataset files
+CreditCard.csv
+Diabetes.csv
+BikiPrice.csv
+BankAdditional.csv
+Heart.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
